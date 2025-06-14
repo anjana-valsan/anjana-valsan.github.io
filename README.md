@@ -18,13 +18,13 @@ This repository is a place where I showcase my projects, practice data analytics
 
 ## 📌 Table of Contents
 
-- [Portfolio Projects](#portfolio-projects)
-  - [Power BI](#power-bi)
-  - [Tableau](#tableau)
-  - [Excel](#excel)
-- [Certifications](#certifications)
-- [Education](#education)
-- [Contact](#contact)
+- [Portfolio Projects](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#portfolio-projects)
+  - [Power BI](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#power-bi)
+  - [Tableau](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#tableau)
+  - [Excel](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#excel)
+- [Certifications](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#certifications)
+- [Education](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#education)
+- [Contact](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#contact)
 
 ---
 
