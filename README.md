@@ -1,6 +1,6 @@
-# Anjana V-Portfolio
+# Anjana V – Portfolio
 
-# 👋 Hi, I'm Anjana!
+## 👋 Hi, I'm Anjana!
 
 I come from a software development background with 3 years of experience as a Python developer, primarily working on backend systems in the domain of data analytics. Over time, I developed a strong interest in working directly with data, leading me to pivot into the field of **Data Analytics** and **Business Intelligence**.
 
@@ -12,19 +12,19 @@ I’m excited to apply my skills to meaningful projects and collaborate with tea
 
 📄 [View My Resume (PDF)](https://github.com/your-username/your-repo-name/blob/main/anjana_resume.pdf)
 
-
 This repository is a place where I showcase my projects, practice data analytics and BI techniques, and track my progress as I grow in this field.
 
+---
 
 ## 📌 Table of Contents
 
-- [📊 Portfolio Projects](#portfolio-projects)
+- [Portfolio Projects](#portfolio-projects)
   - [Power BI](#power-bi)
   - [Tableau](#tableau)
   - [Excel](#excel)
-- [📚 Certifications](#certifications)
-- [🎓 Education](#education)
-- [📫 Contact](#contact)
+- [Certifications](#certifications)
+- [Education](#education)
+- [Contact](#contact)
 
 ---
 
@@ -65,11 +65,11 @@ This repository is a place where I showcase my projects, practice data analytics
 
 ## 📚 Certifications
 
-- ✅ ExcelR – Data Analytics with Internship
-- ✅ Microsoft Certified Power BI Data Analyst Associate
-- ✅ Tableau Desktop Specialist (in progress)
-- 🚀 Data Science Course (in progress)
-- ☁️ AWS Foundations (in progress)
+- ✅ ExcelR – Data Analytics with Internship  
+- ✅ Microsoft Certified Power BI Data Analyst Associate  
+- ✅ Tableau Desktop Specialist (in progress)  
+- 🚀 Data Science Course (in progress)  
+- ☁️ AWS Foundations (in progress)  
 
 ---
 
