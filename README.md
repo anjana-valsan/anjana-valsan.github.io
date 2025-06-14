@@ -17,14 +17,27 @@ This repository is a place where I showcase my projects, practice data analytics
 ---
 
 ## 📌 Table of Contents
-
 - [Portfolio Projects](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#portfolio-projects)
-  - [Power BI](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#power-bi)
-  - [Tableau](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#tableau)
-  - [Excel](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#excel)
-- [Certifications](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#certifications)
-- [Education](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#education)
-- [Contact](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#contact)
+  - Python
+    - abcd
+    - place holder
+  - SQL
+    - abcd
+    - place holder
+  - Tableau
+    - abcd
+    - place holder
+  - PowerBI
+    - abcd
+    - place holder
+	
+
+  
+- [Education](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#education)  
+- [Certificates](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#certificates)
+- [Contact](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#contacts)
+
+
 
 ---
 
