@@ -75,7 +75,13 @@ This repository is a place where I showcase my projects, practice data analytics
   ![Screenshot](assets/hr_excel.png)
 
 ---
+## Education
 
+**B.Tech in Computer Science & Engineering**  
+Government College of Engineering, Kannur – APJ Abdul Kalam Technological University  
+**CGPA**: 6.97
+
+---
 ## Certifications
 
 - ExcelR – Data Analytics with Internship  
@@ -86,13 +92,6 @@ This repository is a place where I showcase my projects, practice data analytics
 
 ---
 
-## Education
-
-**B.Tech in Computer Science & Engineering**  
-Government College of Engineering, Kannur – APJ Abdul Kalam Technological University  
-**CGPA**: 6.97
-
----
 
 ## Contact
 
