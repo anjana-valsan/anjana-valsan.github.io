@@ -41,11 +41,11 @@ This repository is a place where I showcase my projects, practice data analytics
 
 ---
 
-## 📊 Portfolio Projects
+## Portfolio Projects
 
-### 💼 Power BI
+### Power BI
 
-#### 📈 Sales Performance Dashboard
+#### Sales Performance Dashboard
 - **Goal**: Analyze sales performance and identify top-performing regions and products.
 - **Tools**: Power BI, DAX, Power Query
 - **Features**: Interactive filters, YoY revenue growth, region-wise breakdown
@@ -54,9 +54,9 @@ This repository is a place where I showcase my projects, practice data analytics
 
 ---
 
-### 📊 Tableau
+### Tableau
 
-#### 📦 Superstore Sales Analysis
+#### Superstore Sales Analysis
 - **Goal**: Provide visual insights into sales, discounts, and profitability across segments.
 - **Tools**: Tableau Public
 - **Features**: Region maps, top category charts, KPI cards
@@ -65,9 +65,9 @@ This repository is a place where I showcase my projects, practice data analytics
 
 ---
 
-### 📋 Excel
+### Excel
 
-#### 👩‍💼 HR Attrition Report
+#### HR Attrition Report
 - **Goal**: Identify attrition trends and analyze department-wise resignations.
 - **Tools**: Excel, Pivot Tables, Slicers
 - **Features**: Monthly analysis, charts, filters
@@ -76,17 +76,17 @@ This repository is a place where I showcase my projects, practice data analytics
 
 ---
 
-## 📚 Certifications
+## Certifications
 
-- ✅ ExcelR – Data Analytics with Internship  
-- ✅ Microsoft Certified Power BI Data Analyst Associate  
-- ✅ Tableau Desktop Specialist (in progress)  
-- 🚀 Data Science Course (in progress)  
-- ☁️ AWS Foundations (in progress)  
+- ExcelR – Data Analytics with Internship  
+- Microsoft Certified Power BI Data Analyst Associate  
+- Tableau Desktop Specialist (in progress)  
+- Data Science Course (in progress)  
+- AWS Foundations (in progress)  
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Tech in Computer Science & Engineering**  
 Government College of Engineering, Kannur – APJ Abdul Kalam Technological University  
@@ -94,7 +94,7 @@ Government College of Engineering, Kannur – APJ Abdul Kalam Technological Univ
 
 ---
 
-## 📫 Contact
+## Contact
 
 - 📧 anjanavalsan1996@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/anjana-valsan)  
