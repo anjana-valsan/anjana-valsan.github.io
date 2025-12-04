@@ -79,7 +79,6 @@ This repository is a place where I showcase my projects, practice data analytics
 
 **B.Tech in Computer Science & Engineering**  
 Government College of Engineering, Kannur – APJ Abdul Kalam Technological University  
-**CGPA**: 6.97
 
 ---
 ## Certifications
