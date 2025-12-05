@@ -81,13 +81,14 @@ This repository is a place where I showcase my projects, practice data analytics
 Government College of Engineering, Kannur – APJ Abdul Kalam Technological University  
 
 ---
-## Certifications
+## Certifications And Badges
 
 - ExcelR – Data Analytics with Internship  
 - Microsoft Certified Power BI Data Analyst Associate  
 - Tableau Desktop Specialist (in progress)  
 - Data Science Course (in progress)  
-- AWS Foundations (in progress)  
+- AWS Foundations (in progress)
+  
 
 ---
 
