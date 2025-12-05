@@ -88,7 +88,7 @@ Government College of Engineering, Kannur – APJ Abdul Kalam Technological Univ
 - Tableau Desktop Specialist (in progress)  
 - Data Science Course (in progress)  
 - AWS Foundations (in progress)
-  
+  https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/powerbi_desktop_badge.png
 
 ---
 
