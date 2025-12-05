@@ -34,8 +34,8 @@ This repository is a place where I showcase my projects, practice data analytics
 
   
 - [Education](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#education)  
-- [Certifications](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#certificates)
-- [Contact](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#contacts)
+- [Certification And Badgess](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#certifications-and-badges)
+- [Contact](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#contact)
 
 
 
