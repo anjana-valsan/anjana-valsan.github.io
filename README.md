@@ -10,26 +10,30 @@ During my professional journey, I have worked extensively on data-centric module
 
 I’m excited to apply my skills to meaningful projects and collaborate with teams that value data-driven approaches. I am now seeking opportunities as a **Data Analyst** or **BI Developer** where I can apply these skills to solve real-world business problems.
 
-📄 [View My Resume (PDF)](https://github.com/your-username/your-repo-name/blob/main/anjana_resume.pdf)
+<!-- 📄 [View My Resume (PDF)](https://github.com/your-username/your-repo-name/blob/main/anjana_resume.pdf)-->
 
-This repository is a place where I showcase my projects, practice data analytics and BI techniques, and track my progress as I grow in this field.
+
+## 🚧 Portfolio Status: Under Development
+
+This repository showcases my data analytics and business intelligence projects. 
+It is actively being expanded as part of my transition into a Data Analyst role.
+
+New case studies, dashboards, and end-to-end analysis projects will be added regularly.
 
 ---
 
 ## 📌 Table of Contents
 - [Portfolio Projects](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#portfolio-projects)
-  - Python
-    - abcd
-    - place holder
+  
   - SQL
-    - abcd
-    - place holder
+    - Hospital Analytics
   - Tableau
-    - abcd
-    - place holder
   - PowerBI
-    - abcd
-    - place holder
+     <!-- TODO:  project with proper documentation -->
+  - Python
+  - Excel
+    - Manufacturing Downtime Analysis
+    
 	
 
   
@@ -60,19 +64,27 @@ This repository is a place where I showcase my projects, practice data analytics
 - **Goal**: Provide visual insights into sales, discounts, and profitability across segments.
 - **Tools**: Tableau Public
 - **Features**: Region maps, top category charts, KPI cards
-- **Link**: [View on Tableau Public](https://public.tableau.com/app/profile/anjana)  
-  ![Screenshot](assets/superstore_tableau.png)
+- **Link**: [sql file](https://github.com/anjana-valsan/SQL/blob/main/Hospital_Analytics/README.md)
+
+
+---
+
+### Sql
+
+####  Hospital Analytics
+- **Goal**: Support hospital operations, improve patient care, and identify key performance trends
+- **Tools**: MySql
+- **Link**: [sql file](https://github.com/anjana-valsan/SQL/blob/main/Hospital_Analytics/README.md)
 
 ---
 
 ### Excel
 
-#### HR Attrition Report
-- **Goal**: Identify attrition trends and analyze department-wise resignations.
-- **Tools**: Excel, Pivot Tables, Slicers
-- **Features**: Monthly analysis, charts, filters
-- **Link**: [Download Excel](projects/hr_attrition.xlsx)  
-  ![Screenshot](assets/hr_excel.png)
+#### Manufacturing Downtime Analysis
+- **Goal**: Identify productivity improvement opportunities in a production line.
+- **Tools**: Excel,VLOOKUP,match,index,charts
+- **Link**: [Excel file](https://github.com/anjana-valsan/EXCEL/blob/main/Manufacturing_Downtime_Analysis/README.md) 
+
 
 ---
 ## Education
@@ -83,9 +95,8 @@ Government College of Engineering, Kannur – APJ Abdul Kalam Technological Univ
 ---
 ## Certifications And Badges
 
-- ExcelR – Data Analytics with Internship  
-- Microsoft Certified Power BI Data Analyst Associate  
-- Tableau Desktop Specialist (in progress)  
+- Data Analytics Course - ExcelR  
+- Data Science Expert BigData with Python- National Council for Technology and Training 
 - Data Science Course (in progress)  
 - AWS Foundations (in progress)
 <p>
@@ -93,14 +104,14 @@ Government College of Engineering, Kannur – APJ Abdul Kalam Technological Univ
   <img src="https://github.com/anjana-valsan/anjana-valsan.github.io/raw/main/sql_query_badge_maven.png" alt="Advanced Sql Querying" width="120">
   <img src="https://github.com/anjana-valsan/anjana-valsan.github.io/raw/main/pivot_badge.png" alt="Power pivot" width="120">
 </p>
----
+
 
 
 ## Contact
 
 - 📧 anjanavalsan1996@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/anjana-valsan)  
-- 🌐 Location: Kerala, India
+- 🌐 Location: Bangalore, India
 
 ---
 
