@@ -29,8 +29,9 @@ New case studies, dashboards, and end-to-end analysis projects will be added reg
     - Hospital Analytics
   - Tableau
   - PowerBI
-     <!-- TODO:  project with proper documentation -->
+     - Adventure Workds Sales Analysis
   - Python
+  	<!-- TODO:  project with proper documentation -->
   - Excel
     - Manufacturing Downtime Analysis
     
@@ -49,12 +50,11 @@ New case studies, dashboards, and end-to-end analysis projects will be added reg
 
 ### Power BI
 
-#### Sales Performance Dashboard
-- **Goal**: Analyze sales performance and identify top-performing regions and products.
+#### Adventure Workds Sales Analysis
+- **Goal**: To analyze sales trends, product performance, and customer segments in order to generate actionable business insights.
 - **Tools**: Power BI, DAX, Power Query
-- **Features**: Interactive filters, YoY revenue growth, region-wise breakdown
-- **Link**: [PBIX File](projects/sales_dashboard.pbix)  
-  ![Screenshot](assets/sales_dashboard.png)
+- **Link**: [more](https://github.com/anjana-valsan/POWER-BI/blob/main/Adventure%20Works/readme.md)  
+
 
 ---
 
@@ -64,7 +64,7 @@ New case studies, dashboards, and end-to-end analysis projects will be added reg
 - **Goal**: Provide visual insights into sales, discounts, and profitability across segments.
 - **Tools**: Tableau Public
 - **Features**: Region maps, top category charts, KPI cards
-- **Link**: [sql file](https://github.com/anjana-valsan/SQL/blob/main/Hospital_Analytics/README.md)
+- **Link**: [more](https://github.com/anjana-valsan/SQL/blob/main/Hospital_Analytics/README.md)
 
 
 ---
@@ -74,7 +74,7 @@ New case studies, dashboards, and end-to-end analysis projects will be added reg
 ####  Hospital Analytics
 - **Goal**: Support hospital operations, improve patient care, and identify key performance trends
 - **Tools**: MySql
-- **Link**: [sql file](https://github.com/anjana-valsan/SQL/blob/main/Hospital_Analytics/README.md)
+- **Link**: [more](https://github.com/anjana-valsan/SQL/blob/main/Hospital_Analytics/README.md)
 
 ---
 
@@ -83,7 +83,7 @@ New case studies, dashboards, and end-to-end analysis projects will be added reg
 #### Manufacturing Downtime Analysis
 - **Goal**: Identify productivity improvement opportunities in a production line.
 - **Tools**: Excel,VLOOKUP,match,index,charts
-- **Link**: [Excel file](https://github.com/anjana-valsan/EXCEL/blob/main/Manufacturing_Downtime_Analysis/README.md) 
+- **Link**: [more](https://github.com/anjana-valsan/EXCEL/blob/main/Manufacturing_Downtime_Analysis/README.md) 
 
 
 ---
