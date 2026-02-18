@@ -69,15 +69,17 @@ I am currently seeking opportunities as a **Data Analyst** or **BI Developer** i
 
 ## 🟣 Tableau Project
 
-### Superstore Sales Analysis
-- **Objective:** Visualize sales, discount, and profitability patterns across regions and segments.
-- **Tools:** Tableau Public
-- **Features:**
-  - Interactive regional maps
-  - Category-level performance dashboards
-  - Profitability vs discount analysis
-- **Business Impact:** Highlighted discount-driven profit erosion and regional growth opportunities.
-- 🔗 [View Project](#)  <!-- Replace with correct link -->
+### High Cloud Airline – Exploratory Performance Analytics (Tableau)
+
+- **Objective:** Perform multi-dimensional analysis of airline operations to uncover demand patterns, carrier benchmarking insights, and network distribution trends.
+- **Tools:** Tableau, SQL
+- **Key Insights:**
+  - Correlated load factor % with passenger volume to assess demand variability
+  - Benchmarked carrier performance across freight, payload, and efficiency metrics
+  - Analyzed route concentration and distance category distribution to identify high-density traffic corridors
+  - Compared weekday vs weekend performance behavior
+- **Business Impact:** Enabled deeper exploratory analysis to support route rationalization, performance benchmarking, and strategic network planning decisions.
+- 🔗 [View Project]()
 
 ---
 
