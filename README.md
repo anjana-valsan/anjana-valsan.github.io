@@ -30,6 +30,7 @@ New case studies, dashboards, and end-to-end analysis projects will be added reg
   - Tableau
   - PowerBI
      - Adventure Workds Sales Analysis
+     - High Cloud Airline Analysis
   - Python
   	<!-- TODO:  project with proper documentation -->
   - Excel
@@ -53,7 +54,13 @@ New case studies, dashboards, and end-to-end analysis projects will be added reg
 #### Adventure Workds Sales Analysis
 - **Goal**: To analyze sales trends, product performance, and customer segments in order to generate actionable business insights.
 - **Tools**: Power BI, DAX, Power Query
-- **Link**: [more](https://github.com/anjana-valsan/POWER-BI/blob/main/Adventure%20Works/readme.md)  
+- **Link**: [more](https://github.com/anjana-valsan/POWER-BI/blob/main/Adventure%20Works/readme.md)
+
+#### High Cloud Airline Analysis
+- **Goal**:  Transform airline operational data into actionable insights to optimize load factor, route performance, and capacity planning.
+- **Tools**: Power BI, DAX, Power Query
+- **Link**: [more](https://github.com/anjana-valsan/POWER-BI/blob/main/Airline%20Analysis/readme.md)  
+
 
 
 ---
