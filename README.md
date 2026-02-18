@@ -1,125 +1,146 @@
-# Anjana V – Portfolio
+# Anjana V – Data Analytics Portfolio
 
-## 👋 Hi, I'm Anjana!
+## 👋 Hi, I'm Anjana
 
-I come from a software development background with 3 years of experience as a Python developer, primarily working on backend systems in the domain of data analytics. Over time, I developed a strong interest in working directly with data, leading me to pivot into the field of **Data Analytics** and **Business Intelligence**.
+**Data Analyst | Former Python Backend Developer | BI & Dashboard Specialist**
 
-Through independent learning and hands-on practice, I’ve built a solid foundation in tools like **Power BI**, **Tableau**, **Excel**, and **SQL**, and I'm currently enhancing my skills further through coursework in **Data Science** and **AWS**. My interest lies in transforming raw data into impactful insights and building dashboards that support data-driven decision-making.
+With 3 years of experience as a Python backend developer working on data-centric systems, I transitioned into Data Analytics to work closer to business decision-making and strategic insights.
 
-During my professional journey, I have worked extensively on data-centric modules involving data ingestion, transformation, preparation, and visualization. My experience includes developing backend services for analytical workflows, building and maintaining various data connectors, and contributing to major components such as the Data Center, Data Preparation, and Data Catalog. These projects have strengthened my skills in data engineering and analytics, while sharpening my problem-solving, critical thinking, and communication abilities.
+I specialize in transforming raw data into actionable insights using **Power BI, Tableau, SQL, Excel, and Python**. My focus is on designing interactive dashboards, developing KPIs, identifying performance trends, and enabling data-driven decisions.
 
-I’m excited to apply my skills to meaningful projects and collaborate with teams that value data-driven approaches. I am now seeking opportunities as a **Data Analyst** or **BI Developer** where I can apply these skills to solve real-world business problems.
+I am currently seeking opportunities as a **Data Analyst** or **BI Developer** in Bangalore where I can combine analytical thinking, technical expertise, and business understanding to solve real-world problems.
 
-<!-- 📄 [View My Resume (PDF)](https://github.com/your-username/your-repo-name/blob/main/anjana_resume.pdf)-->
-
-
-## 🚧 Portfolio Status: Under Development
-
-This repository showcases my data analytics and business intelligence projects. 
-It is actively being expanded as part of my transition into a Data Analyst role.
-
-New case studies, dashboards, and end-to-end analysis projects will be added regularly.
+📍 Bangalore, India  
+📧 anjanavalsan1996@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/anjana-valsan)
 
 ---
 
-## 📌 Table of Contents
-- [Portfolio Projects](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#portfolio-projects)
-  
-  - SQL
-    - Hospital Analytics
-  - Tableau
-  - PowerBI
-     - Adventure Workds Sales Analysis
-     - High Cloud Airline Analysis
-  - Python
-  	<!-- TODO:  project with proper documentation -->
-  - Excel
-    - Manufacturing Downtime Analysis
-    
-	
+## 🧠 Core Competencies
 
-  
-- [Education](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#education)  
-- [Certification And Badgess](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#certifications-and-badges)
-- [Contact](https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/README.md#contact)
-
-
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- KPI Development & Dashboard Design  
+- DAX & Power Query  
+- SQL Query Optimization  
+- Data Modeling & Relationships  
+- Business Insight Generation  
+- Analytical Problem Solving  
 
 ---
 
-## Portfolio Projects
+## 🛠 Technical Skills
 
-### Power BI
-
-#### Adventure Workds Sales Analysis
-- **Goal**: To analyze sales trends, product performance, and customer segments in order to generate actionable business insights.
-- **Tools**: Power BI, DAX, Power Query
-- **Link**: [more](https://github.com/anjana-valsan/POWER-BI/blob/main/Adventure%20Works/readme.md)
-
-#### High Cloud Airline Analysis
-- **Goal**:  Transform airline operational data into actionable insights to optimize load factor, route performance, and capacity planning.
-- **Tools**: Power BI, DAX, Power Query
-- **Link**: [more](https://github.com/anjana-valsan/POWER-BI/blob/main/Airline%20Analysis/readme.md)  
-
-
+**Analytics & BI:** Power BI, Tableau, Excel  
+**Querying:** SQL, MySQL  
+**Programming:** Python (Pandas, NumPy)  
+**Data Processing:** Power Query, Data Transformation  
+**Cloud (Learning):** AWS Foundations  
 
 ---
 
-### Tableau
-
-#### Superstore Sales Analysis
-- **Goal**: Provide visual insights into sales, discounts, and profitability across segments.
-- **Tools**: Tableau Public
-- **Features**: Region maps, top category charts, KPI cards
-- **Link**: [more](https://github.com/anjana-valsan/SQL/blob/main/Hospital_Analytics/README.md)
-
+# 📊 Portfolio Projects
 
 ---
 
-### Sql
+## 🔵 Power BI Projects
 
-####  Hospital Analytics
-- **Goal**: Support hospital operations, improve patient care, and identify key performance trends
-- **Tools**: MySql
-- **Link**: [more](https://github.com/anjana-valsan/SQL/blob/main/Hospital_Analytics/README.md)
+### 1️⃣ Adventure Works Sales Analysis
+- **Objective:** Analyze sales trends, product performance, and customer segmentation.
+- **Tools:** Power BI, DAX, Power Query
+- **Key Insights:**
+  - Identified top-performing product categories and seasonal sales patterns
+  - Analyzed customer segments contributing highest revenue
+- **Business Impact:** Enabled targeted marketing and inventory planning decisions.
+- 🔗 [View Project](https://github.com/anjana-valsan/POWER-BI/blob/main/Adventure%20Works/readme.md)
+
+---
+
+### 2️⃣ High Cloud Airline Analysis
+- **Objective:** Transform airline operational data into insights for load factor and route performance optimization.
+- **Tools:** Power BI, DAX, Power Query
+- **Key Insights:**
+  - Evaluated route-wise load factor trends
+  - Identified underperforming routes and peak travel periods
+- **Business Impact:** Supported capacity planning and operational efficiency improvements.
+- 🔗 [View Project](https://github.com/anjana-valsan/POWER-BI/blob/main/Airline%20Analysis/readme.md)
 
 ---
 
-### Excel
+## 🟣 Tableau Project
 
-#### Manufacturing Downtime Analysis
-- **Goal**: Identify productivity improvement opportunities in a production line.
-- **Tools**: Excel,VLOOKUP,match,index,charts
-- **Link**: [more](https://github.com/anjana-valsan/EXCEL/blob/main/Manufacturing_Downtime_Analysis/README.md) 
-
+### Superstore Sales Analysis
+- **Objective:** Visualize sales, discount, and profitability patterns across regions and segments.
+- **Tools:** Tableau Public
+- **Features:**
+  - Interactive regional maps
+  - Category-level performance dashboards
+  - Profitability vs discount analysis
+- **Business Impact:** Highlighted discount-driven profit erosion and regional growth opportunities.
+- 🔗 [View Project](#)  <!-- Replace with correct link -->
 
 ---
-## Education
+
+## 🟢 SQL Project
+
+### Hospital Analytics
+- **Objective:** Analyze hospital operations and patient trends to identify performance metrics.
+- **Tools:** MySQL
+- **Analysis Covered:**
+  - Patient admission trends
+  - Department performance metrics
+  - Revenue analysis
+- **Business Impact:** Provided insights into operational efficiency and patient flow optimization.
+- 🔗 [View Project](https://github.com/anjana-valsan/SQL/blob/main/Hospital_Analytics/README.md)
+
+---
+
+## 🟡 Excel Project
+
+### Manufacturing Downtime Analysis
+- **Objective:** Identify productivity improvement opportunities in a production line.
+- **Tools:** Excel (VLOOKUP, INDEX-MATCH, Pivot Tables, Charts)
+- **Analysis Covered:**
+  - Root causes of downtime
+  - Machine-level breakdown frequency
+  - Monthly productivity trends
+- **Business Impact:** Identified operational bottlenecks contributing to reduced efficiency.
+- 🔗 [View Project](https://github.com/anjana-valsan/EXCEL/blob/main/Manufacturing_Downtime_Analysis/README.md)
+
+---
+
+# 🎓 Education
 
 **B.Tech in Computer Science & Engineering**  
-Government College of Engineering, Kannur – APJ Abdul Kalam Technological University  
+Government College of Engineering, Kannur  
+APJ Abdul Kalam Technological University  
 
 ---
-## Certifications And Badges
 
-- Data Analytics Course - ExcelR  
-- Data Science Expert BigData with Python- National Council for Technology and Training 
-- Data Science Course (in progress)  
-- AWS Foundations (in progress)
+# 🏅 Certifications & Badges
+
+- Data Analytics Course – ExcelR  
+- Data Science Expert (Big Data with Python) – National Council for Technology and Training  
+- Data Science Course (In Progress)  
+- AWS Foundations (In Progress)  
+
 <p>
   <img src="https://github.com/anjana-valsan/anjana-valsan.github.io/raw/main/powerbi_desktop_badge.png" alt="Power BI Desktop Badge" width="120">
-  <img src="https://github.com/anjana-valsan/anjana-valsan.github.io/raw/main/sql_query_badge_maven.png" alt="Advanced Sql Querying" width="120">
-  <img src="https://github.com/anjana-valsan/anjana-valsan.github.io/raw/main/pivot_badge.png" alt="Power pivot" width="120">
+  <img src="https://github.com/anjana-valsan/anjana-valsan.github.io/raw/main/sql_query_badge_maven.png" alt="Advanced SQL Querying" width="120">
+  <img src="https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/pivot_badge.png" alt="Power Pivot" width="120">
+  <img src="https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/statistics%20badge.png" alt="Statistics" width="120">
+  <img src="https://github.com/anjana-valsan/anjana-valsan.github.io/blob/main/tableau%20desktop%20badge.png" alt="Tableau Desktop" width="120">
 </p>
-
-
-
-## Contact
-
-- 📧 anjanavalsan1996@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/anjana-valsan)  
-- 🌐 Location: Bangalore, India
 
 ---
 
-> *“Data is the new oil – and I’m here to refine it.”*
+# 🤝 Let's Connect
+
+I am open to opportunities in **Data Analytics, Business Intelligence, and Reporting roles**.
+
+📧 anjanavalsan1996@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/anjana-valsan)
+
+---
+
+> **Turning data into decisions — and decisions into impact.**
